@@ -1,0 +1,77 @@
+日志文件：课设1数据.log
+总请求数：65028
+不同 IP 数：3568
+
+【Top 10 活跃 IP】
+IP
+192.168.127.244    1354
+219.234.128.194    1339
+61.149.201.96       947
+218.240.29.173      910
+123.151.148.161     900
+192.168.127.222     707
+124.205.103.34      670
+106.225.10.102      664
+114.64.236.5        650
+60.194.14.246       572
+
+【Top 20 热门页面（完整 URL）】
+url
+/api/group/groupinfo.jspx?&callback=setDomain                                                                                                                                                                3456
+/                                                                                                                                                                                                            3089
+/favicon.ico                                                                                                                                                                                                 2384
+/ird/component/style/xc/cssXC_00468c.jsp                                                                                                                                                                     2269
+/ird/cmpt/irdcss.jspx                                                                                                                                                                                        2060
+/cmpt/nav/foot.jspx?noscript=true                                                                                                                                                                            1690
+/ssreaderlogin.jsp                                                                                                                                                                                           1140
+/cmpt/nav/top.jspx?nav=xszy                                                                                                                                                                                  1050
+/cmpt/nav/foot.jspx?nav=xszy                                                                                                                                                                                 1043
+/search/goSearch.jspx                                                                                                                                                                                         972
+/cmpt/nav/top.jspx?nav=grzx&noscript=true                                                                                                                                                                     925
+/ird/cmpt/irdcss.jspx?xc=6&schoolid=144&date=20130124                                                                                                                                                         907
+/ird/component/style/xc/cssXC_8c0000.jsp                                                                                                                                                                      853
+/cmpt/nav/foot.jspx?nav=                                                                                                                                                                                      849
+/style/v_1/ird/foot.css                                                                                                                                                                                       846
+/error/msgBack.jsp?title=%E9%93%BE%E6%8E%A5%E5%A4%B1%E6%95%88&msg=%E5%AF%B9%E4%B8%8D%E8%B5%B7%EF%BC%8C%E6%82%A8%E8%AE%BF%E9%97%AE%E7%9A%84%E9%93%BE%E6%8E%A5%E5%8F%AF%E8%83%BD%E6%9C%89%E8%AF%AF%EF%BC%81     813
+/api/group/phoneAreaInfo.jspx?vs=true                                                                                                                                                                         788
+/images/v_1/irdxc/icons.png                                                                                                                                                                                   764
+/ird/cmpt/irdcss.jspx?irdxc=1                                                                                                                                                                                 715
+/js/jquery/jquery.js                                                                                                                                                                                          697
+
+【404 错误最多的 URL】
+url
+/favicon.ico                                 2290
+/ssreaderlogin.jsp                           1140
+/robots.txt                                   335
+/images/logos/schools/83/logo_phmbl.png        91
+/images/logos/schools/1284/logo_phmbl.png      82
+/images/logos/schools/569/logo_phmbl.png       81
+/images/logos/schools/587/logo_phmbl.png       81
+/images/logos/schools/490/logo_phmbl.png       80
+/images/logos/schools/895/logo_phmbl.png       80
+/images/logos/schools/186/logo_phmbl.png       80
+
+【会话分析】
+平均会话长度：9.21 次请求
+跳出率：42.71%
+
+【爬虫识别】
+疑似爬虫请求数：5924
+真人请求数：59104
+
+【入口来源 Top10】
+referer
+-                                                                     28190
+http://img.3g.chaoxing.com/n/mbreader.shtml?                           2668
+http://mc.m.5read.com/                                                  696
+http://m.5read.com/                                                     523
+http://i.buaalib.com/                                                   502
+http://m.5read.com/sxmu                                                 402
+http://lib.ciir.edu.cn:8080/sms/opac/search/showSearch.action?xc=5      389
+http://m.5read.com/739                                                  372
+http://m.5read.com/zju                                                  356
+http://m.5read.com/ird/scribe/mySubscribes_irdxc.jsp                    336
+
+【性能指标】
+平均响应时间：0.023 秒
+慢请求（>1 秒）数量：326
