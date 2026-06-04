@@ -43,7 +43,7 @@
 
 ### 2. 初始化数据库
 
-首先，您需要一个有权创建数据库的 MySQL 用户。本项目将使用您提供的凭据（用户: `root`, 密码: `qw12qw12@`）自动创建名为 `logistics_db` 的数据库。
+首先，您需要一个有权创建数据库的 MySQL 用户。本项目将使用您提供的凭据（用户: `root`, 密码: `your_password_here`）自动创建名为 `logistics_db` 的数据库。
 
 然后，您需要手动将 `database/schema.sql` 和 `database/data.sql` 的内容导入到您的 MySQL 服务器中。您可以使用 MySQL 命令行工具或图形化界面（如 MySQL Workbench）来执行这些脚本。
 

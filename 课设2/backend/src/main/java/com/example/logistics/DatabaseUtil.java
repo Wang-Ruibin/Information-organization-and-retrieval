@@ -7,7 +7,7 @@ import java.sql.SQLException;
 public class DatabaseUtil {
     private static final String DB_URL = "jdbc:mysql://localhost:3306/logistics_db?useSSL=false&serverTimezone=UTC";
     private static final String DB_USER = "root";
-    private static final String DB_PASSWORD = "qw12qw12@";
+    private static final String DB_PASSWORD = "your_password_here"; // 请替换为您的数据库密码
 
     static {
         try {
