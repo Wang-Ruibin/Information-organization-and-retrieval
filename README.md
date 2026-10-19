@@ -111,4 +111,10 @@ node server.js
 
 ## ⭐ 如果觉得有用，点个 Star 支持一下吧！
 
+<div align="center">
+
 如果这个项目对你有帮助，欢迎给一个小小的 Star ⭐ 你的支持是我继续开源的最大动力！(◕ᴗ◕✿)
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Wang-Ruibin/Information-organization-and-retrieval&type=Date)](https://star-history.com/#Wang-Ruibin/Information-organization-and-retrieval&Date)
+
+</div>
